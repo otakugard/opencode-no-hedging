@@ -2,7 +2,7 @@
 
 [English](#english) | [中文](#中文) | [SKILL.md](./SKILL.md)
 
-<img src="./assets/gpt-hedging-meme.jpg" alt="GPT Hedging" width="420" />
+<img src="./assets/gpt-hedging-meme.png" alt="GPT Hedging" width="420" />
 
 ## English
 
