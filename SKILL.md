@@ -1,6 +1,6 @@
 ---
 name: no-hedging
-description: "MANDATORY GLOBAL PROSE & OPENAI DE-HEDGING SKILL. Activate for any OpenAI or Codex runtime (gpt-*, chatgpt-*, codex-*, consult-codex.py, codex exec), ChatGPT/Codex artifact, or natural-language output (Q&A, debugging, reviews, commits, comments, docs, translations). Prohibits defensive hedging, negative parallelisms ('not X, but Y' / '不是…而是…'), and preemptive disclaimers."
+description: "MANDATORY GLOBAL PROSE & OPENAI DE-HEDGING SKILL. Activate for any OpenAI or Codex runtime (gpt-*, chatgpt-*, codex-*, codex exec), ChatGPT/Codex artifact, or natural-language output (Q&A, debugging, reviews, commits, comments, docs, translations). Prohibits defensive hedging, negative parallelisms ('not X, but Y' / '不是…而是…'), and preemptive disclaimers."
 ---
 
 # Anti-Hedging & OpenAI De-Conditioning Protocol
