@@ -12,23 +12,6 @@ A 2.8 KiB prompt for OpenCode V2 (`SKILL.md`) and `AGENTS.md`. Written in ASD-ST
 
 一个 2.8 KiB 的提示词文件，适用于 OpenCode V2 (`SKILL.md`) 与 `AGENTS.md`。用于去掉 GPT 和 Codex 输出里的“不是…而是…”、“不等于”、“不能证明”、“不能仅凭”、“不保证”等防御性套话。
 
-## Install
-
-**OpenCode V2 Skill**
-
-```bash
-mkdir -p ~/.config/opencode/skills/no-hedging
-curl -fsSL [https://raw.githubusercontent.com/otakugard/no-hedging/main/SKILL.md](https://raw.githubusercontent.com/otakugard/no-hedging/main/SKILL.md) \
-  -o ~/.config/opencode/skills/no-hedging/SKILL.md
-```
-
-**AGENTS.md / CLAUDE.md / .cursorrules**
-
-```bash
-curl -fsSL [https://raw.githubusercontent.com/otakugard/no-hedging/main/SKILL.md](https://raw.githubusercontent.com/otakugard/no-hedging/main/SKILL.md) \
-  | sed '1,4d' >> AGENTS.md
-```
-
 ## License
 
 Released into the public domain under [The Unlicense](https://unlicense.org/). No rights reserved.
