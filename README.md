@@ -1,4 +1,4 @@
-# no-hedging
+# opencode-no-hedging
 
 [English](#english) | [中文](#中文)
 
