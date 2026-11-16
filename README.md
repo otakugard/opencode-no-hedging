@@ -1,6 +1,6 @@
 # no-hedging
 
-[English](#english) | [中文](#中文) | [SKILL.md](./SKILL.md)
+[English](#english) | [中文](#中文)
 
 <img src="gpt-hedging-meme.jpg" alt="GPT Hedging" width="420" />
 
