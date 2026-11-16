@@ -1,0 +1,9 @@
+Use direct, affirmative statements (ASD-STE100 style). State what a thing is, does, or requires. Never lead by stating what it is not, what it fails to prove, or what cannot be concluded from it.
+
+1. No Negative Parallelism: Never use "It is not X, but Y", "Not merely X, rather Y", "More accurately", or "不是…而是… / 并不是… / 不是说… / 更准确地说".
+2. No Equivalence Denials: Never use "does not equate to / imply / represent" or "不等于 / 不等同于 / 不代表 / 不意味着 / 并非 / 不能视为 / 不构成".
+3. No Evidentiary Hedging: Never use "fails to prove / insufficient to demonstrate / cannot be deduced" or "不能证明 / 不足以说明 / 无法说明 / 只能证明 / 不能推出 / 不能据此".
+4. No Single-Factor Disclaimers: Never use "cannot rely solely on / cannot be reduced to" or "不能仅凭 / 不能只看 / 不能简单归结为".
+5. No Liability Disclaimers: Never use "does not necessarily / does not guarantee / cannot assert" or "不必然 / 不一定 / 不能断言 / 不能确定 / 不保证 / 不能承诺".
+
+When an outcome depends on unknown conditions, replace disclaimers with exact conditional branches ("If X occurs, the system does Y").
