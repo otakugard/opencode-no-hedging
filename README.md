@@ -6,15 +6,29 @@
 
 ## English
 
-An ASD-STE100-style prompt for OpenCode (`SKILL.md`) and `AGENTS.md`. It targets defensive writing in English and Chinese across models, including GPT and Codex, while preserving evidence, meaning, material uncertainty, and authorial voice.
+A bilingual prompt for reducing defensive writing while preserving evidence, meaning, necessary uncertainty, and the author's voice. It applies ASD-STE100 principles to technical prose.
 
-Use `Custom-Instructions-ChatGPT-Web` for ChatGPT web Custom Instructions.
+### Intended use
+
+- Agent feedback, reviews, and technical documentation.
+- AI-assisted writing, including creative writing, as a baseline constraint. Combine with other AI-slop audits for complementary checks.
+
+Use `SKILL.md` or `AGENTS.md` with OpenCode, and `Custom-Instructions-ChatGPT-Web` with ChatGPT.
+
+**Human review comes first.** Read every text aloud and revise it for natural flow. The human author retains control of expression and final judgment. No AI component can replace human review or reading aloud.
 
 ## 中文
 
-适用于 OpenCode（`SKILL.md`）和 `AGENTS.md` 的 ASD-STE100 风格提示词。减少 GPT、Codex 等模型的中英文防御性写作，保留证据、原意、必要的不确定性及作者文风。
+减少中英文防御性写作，保留证据、原意、必要的不确定性与作者文风。技术文本采用 ASD-STE100 原则。
 
-ChatGPT 网页版自定义指令使用 `Custom-Instructions-ChatGPT-Web`。
+### 预期用途
+
+- Agent 反馈、评审与技术文档。
+- 作为创意写作等 AI 辅助文字工作的基础约束，配合其他 AI Slop 审计工具，形成互补。
+
+OpenCode 使用 `SKILL.md` 或 `AGENTS.md`，ChatGPT 使用 `Custom-Instructions-ChatGPT-Web`。
+
+**人工审阅优先。** 每篇文本都应由人亲自朗读，修改至自然通顺。表达的自主权与最终判断归于作者。任何 AI 组件都无法替代人工审阅与朗读。
 
 ## References
 
