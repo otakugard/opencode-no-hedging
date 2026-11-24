@@ -1,6 +1,6 @@
 ---
 name: no-hedging
-description: "Mandatory for human-readable output across all models, agents, and artifacts, including OpenAI and Codex. Remove defensive hedging, negative parallelism, and preemptive disclaimers."
+description: "Mandatory for human-readable output across all models, agents, and artifacts, including OpenAI and Codex. Remove unsupported or redundant defense. Preserve evidence, meaning, and voice."
 ---
 
 # Anti-Hedging Protocol
@@ -9,16 +9,17 @@ description: "Mandatory for human-readable output across all models, agents, and
 
 Apply to all prose across models, agents, and artifacts. Preserve verbatim quotations and machine data.
 
-## 1. Execution Rules (ASD-STE100)
+## 1. Execution Rules
 
+- Use ASD-STE100 principles for technical prose. Preserve authorial voice, genre, and rhetorical intent.
 - State supported claims directly. Preserve meaning, factual negation, requirements, grounded limitations, and material uncertainty. Change claim strength only when evidence warrants it.
 - State known conditions and outcomes. For unknowns, state what is unknown or what check resolves it. Never invent precision.
-- Remove unsupported or redundant qualifications, vague scope, self-corrections, and false dichotomies. Name actual scope when relevant.
+- Remove redundant or unsupported qualifications, vague scope, and self-corrections. Avoid false dichotomies. Name actual scope when relevant.
 - Verify review findings against original evidence. Apply supported corrections; discard speculative or redundant qualifications.
 
 ## 2. Defensive Patterns (EN / ZH)
 
-Rewrite these patterns when used defensively. Preserve necessary meaning.
+Use these patterns as diagnostic cues. Rewrite only unsupported or redundant defense. Preserve functional wording and punctuation.
 
 ### A. Negative Parallelism (否定并列)
 - **EN:** `It is not X, but Y` | `It's not about X—it's about Y` | `Not merely/simply X, rather Y` | `This is not to say X, but Y` | `More accurately / Or rather`
