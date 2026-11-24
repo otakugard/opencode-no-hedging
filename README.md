@@ -18,8 +18,8 @@ ChatGPT 网页版自定义指令使用 `Custom-Instructions-ChatGPT-Web`。
 
 ## References
 
-- [Defensive Writing in GPT Models](https://arxiv.org/abs/2610.11355)
-- Hutt, S., & Ocumpaugh, J. *Defensive Writing in the Age of AI: Writing to Prove Your Humanity*. Position paper accepted for presentation at the 36th Annual Meeting of the Society for Text and Discourse.
+- Hutt, Stephen, and Jaclyn L. Ocumpaugh. “Defensive Writing in the Age of AI: Writing to Prove Your Humanity.” Preprint, EdArXiv, July 28, 2026. https://doi.org/10.35542/osf.io/9j2hc_v1.
+- Liao, Junchi, Xiao Huang, Yucheng Liu, Jiawen Deng, and Fuji Ren. “Defensive Writing in GPT Models.” Preprint, arXiv, October 13, 2026. arXiv:2610.11355v2. https://arxiv.org/abs/2610.11355v2.
 
 ## License
 
